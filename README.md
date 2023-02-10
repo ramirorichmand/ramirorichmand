@@ -64,6 +64,13 @@ I am an Equity Research Analyst training to become a Full Stack Developer <img s
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramirorichmand&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramirorichmand)](https://git.io/streak-stats)
