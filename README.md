@@ -70,7 +70,7 @@ I am an Equity Research Analyst training to become a Full Stack Developer <img s
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramirorichmand&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramirorichmand)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
+
