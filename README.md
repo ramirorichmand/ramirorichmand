@@ -4,7 +4,6 @@
 </div>
 
 <!-- ### hey there! 👋 -->
-
 <!--
 **ramirorichmand/ramirorichmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-
 ### :man_technologist: About Me :
 
 I am an Equity Research Analyst from the UK eager to take my passion within Finance and Technology to the next level by expanding my skillset in Full Stack Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
