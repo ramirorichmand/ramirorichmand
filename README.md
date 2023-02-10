@@ -3,10 +3,12 @@
   <
 </div>
 
-<h1> align="center">
-  Hey there! 👋
-  <
+<h1> align="center"
+  > Hey there! 👋 <
 </h1>
+  
+ <h1 style="text-align: center;">Hey there! 👋</h1>
+
 
 <!-- ### hey there! 👋 -->
 
