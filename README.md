@@ -54,7 +54,7 @@ I am an Equity Research Analyst eager to expand my skillset in Full Stack Engine
 
 - 👯 I’m looking to collaborate on Web Development, Data Analysis, Financial Modelling, Algorithmic Trading, Investment Portfolio Optimisation 📈
 
-- 🤔 Fun Fact: Came 2nd in a Salsa competition   
+- 👻 Fun Fact: Came 2nd in a Salsa competition   
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
