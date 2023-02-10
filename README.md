@@ -3,8 +3,9 @@
   <
 </div>
 
-<h1>
-  hey there! 👋
+<h1> align="center">
+  Hey there! 👋
+  <
 </h1>
 
 <!-- ### hey there! 👋 -->
