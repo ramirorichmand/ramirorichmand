@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technoloist: About Me :
+### :man_technologist: About Me :
 
 I am an Equity Research Analyst training to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
