@@ -52,7 +52,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 - 👯 I’m looking to collaborate on <b> Web Development, Data Analysis, Financial Modelling, Algorithmic Trading and Investment Portfolio Optimisation 📈 </b>
 
-- 👻 Fun Fact: <b> Came 2nd in a Salsa competition </b>   
+- 👻 Fun Fact: <b> Came 2nd in a Salsa competition! </b>   
   
 - :mailbox:How to reach me: <b> ramirorichmand@gmail.com </b> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my-gmail-url)
 
