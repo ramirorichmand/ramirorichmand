@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am an Equity Research Analyst eager to expand my skillset in Full Stack Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+I am an Equity Research Analyst eager to expand my skillset in Full Stack Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 - :telescope: I’m training as a Full Stack Software Engineer and contributing to frontend and backend projects for building applications.
 
