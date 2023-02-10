@@ -34,5 +34,17 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+---
+
+### :man_technoloist: About Me :
+
+I am an Equity Research Analyst training to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+
+- :telescope: I’m training as a Full Stack Software Engineer and contributing to frontend and backend projects for building applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my-gmail-url)
 
