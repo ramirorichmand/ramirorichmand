@@ -2,12 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <
 </div>
-
-<h1> align="center"
-  > Hey there! 👋 <
-</h1>
-  
- <h1 style="text-align: center;">Hey there! 👋</h1>
+<h1 style="text-align: center;">Hey there! 👋</h1>
 
 
 <!-- ### hey there! 👋 -->
