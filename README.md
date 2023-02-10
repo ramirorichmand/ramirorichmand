@@ -38,16 +38,19 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am an Equity Research Analyst training to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+I am an Equity Research Analyst eager to expand my skillset in Full Stack Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 - :telescope: I’m training as a Full Stack Software Engineer and contributing to frontend and backend projects for building applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Machine Learning and Natural Language Processing.
 
-- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and read articles on the intersection between Finance and Technology.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my-gmail-url)
 
+<!-- 💬 Ask me about my current projects -->
+
+- 👯 I’m looking to collaborate on Web Development, Data Analysis, Financial Modelling, Algorithmic Trading, Investment Portfolio Optimisation 📈
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
