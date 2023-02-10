@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="ramirorichmand@gmail.com"
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
@@ -52,7 +55,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 - 👻 Fun Fact: <b> Came 2nd in a Salsa competition! </b>   
   
-- :mailbox:How to reach me: <b> ramirorichmand@gmail.com </b> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my-gmail-url)
+- :mailbox:How to reach me: <b> ramirorichmand@gmail.com </b>
 
 ---
 
