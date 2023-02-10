@@ -46,11 +46,13 @@ I am an Equity Research Analyst eager to expand my skillset in Full Stack Engine
 
 - :zap: In my free time, I solve problems on CodeWars and read articles on the intersection between Finance and Technology.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my-gmail-url)
+- :mailbox:How to reach me: ramirorichmand@gmail.com [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my-gmail-url)
 
 <!-- 💬 Ask me about my current projects -->
 
 - 👯 I’m looking to collaborate on Web Development, Data Analysis, Financial Modelling, Algorithmic Trading, Investment Portfolio Optimisation 📈
+
+- 🤔 Fun Fact: Came 2nd in a Salsa competition   
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
