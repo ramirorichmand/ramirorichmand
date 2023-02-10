@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  <
+  
 </div>
 <h1 style="text-align: center;">Hey there! 👋</h1>
 
@@ -42,19 +42,19 @@ Here are some ideas to get you started:
 
 I am an Equity Research Analyst eager to expand my skillset in Full Stack Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
-- :telescope: I’m training as a Full Stack Software Engineer and contributing to frontend and backend projects for building applications.
+- :telescope: I’m training as a <b> Full Stack Software Engineer and contributing to frontend and backend projects for building applications. </b>
 
-- :seedling: Exploring Machine Learning and Natural Language Processing.
+- :seedling: Exploring <b> Machine Learning and Natural Language Processing.</b>
 
-- :zap: In my free time, I solve problems on CodeWars and read articles on the intersection between Finance and Technology.
+- :zap: In my free time, <b> I solve problems on CodeWars and read articles on the intersection between Finance and Technology.</b>
 
 <!-- 💬 Ask me about my current projects -->
 
-- 👯 I’m looking to collaborate on Web Development, Data Analysis, Financial Modelling, Algorithmic Trading, Investment Portfolio Optimisation 📈
+- 👯 I’m looking to collaborate on <b> Web Development, Data Analysis, Financial Modelling, Algorithmic Trading, Investment Portfolio Optimisation 📈 </b>
 
-- 👻 Fun Fact: Came 2nd in a Salsa competition   
+- 👻 Fun Fact: <b> Came 2nd in a Salsa competition </b>   
   
-- :mailbox:How to reach me: ramirorichmand@gmail.com [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my-gmail-url)
+- :mailbox:How to reach me: <b> ramirorichmand@gmail.com </b> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my-gmail-url)
 
 ---
 
