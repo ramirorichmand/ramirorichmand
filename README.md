@@ -63,7 +63,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
 
 ---
-
+<!-- IGNORE
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -78,8 +78,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
+-->
 ---
 
 <div id="badges">
@@ -89,9 +88,12 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
   </a>
    <a href="https://youtube.com/ramiro-richmand" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="ramiro-richmand" height="30" width="40" />
   </a>
+  </div>
   
+<img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
 
-<!--
+
+<!-- IGNORE!!!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramiro-richmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramiro-richmand" height="30" width="40" /></a>
