@@ -85,3 +85,8 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 <p align="left">
 <a href="https://linkedin.com/in/ramiro-richmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramiro-richmand" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ramiro-richmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitter.svg" alt="ramiro-richmand" height="30" width="40" /></a>
+</p>
