@@ -81,3 +81,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 <img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ramiro-richmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramiro-richmand" height="30" width="40" /></a>
+</p>
