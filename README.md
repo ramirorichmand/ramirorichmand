@@ -26,7 +26,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 - :seedling: Exploring <b> Machine Learning and Natural Language within International Development and hope to soon participate in Hackathons!</b>
 
-- :zap: In my free time, <b> I solve problems on Codewars, read tech articles and indulge in podcasts especially the Fintech Insider Podcast.</b>
+- :zap: In my free time, <b> I read tech articles and indulge in podcasts especially the Fintech Insider Podcast.</b>
 
 <!-- 💬 Ask me about my current projects -->
 
