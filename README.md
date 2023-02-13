@@ -30,7 +30,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 <!-- 💬 Ask me about my current projects -->
 
-- 👯 I’m looking to collaborate on <b> Web Development, Database Design, Data Analysis, Financial Modelling and Algo Trading 📈 </b>
+- 👯 I’m looking to collaborate on <b> Web Development, Database Design, Data Analysis and Financial Modelling. </b>
 
 - 👻 Fun Fact: <b> Came 2nd in a Salsa competition! </b>   
   
