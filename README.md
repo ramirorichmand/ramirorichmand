@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/ramirorichmand/RR1_AnimatedReadMe/main/chat.svg)](ramirorichmand@gmail.com)
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="498" height="373"/>
   <h1 style="text-align: center;">Hey there! 👋</h1>
