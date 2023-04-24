@@ -11,17 +11,15 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 - :telescope: I’m training as a <b> Full Stack Software Engineer and contributing to frontend and backend projects for building applications. </b>
 
-- :seedling: Exploring <b> Machine Learning and Natural Language within International Development and hope to soon participate in Hackathons!</b>
+- :seedling: Exploring <b> Machine Learning and Natural Language within International Development and hope to soon participate in Hackathons.</b>
 
-- :zap: In my free time, <b> I read tech articles and indulge in podcasts especially the Fintech Insider Podcast.</b>
-
-<!-- 💬 Ask me about my current projects -->
+- :zap: In my free time, <b> you'll often find me diving into tech articles, tuning in to tech podcasts, and taking on coding challenges to level up my programming skills!</b>
 
 - 💪 I’m looking to collaborate on <b> Web Development, Database Design, Data Analysis and Financial Modelling. </b>
 
-- 👻 Fun Fact: <b> Came 2nd in a Salsa competition! </b>   
+- 👻 Fun Fact: Came 2nd in a Salsa competition!  
   
-- :mailbox:How to reach me: <b> ramirorichmand@gmail.com </b>
+- :mailbox: How to reach me: <b> ramirorichmand@gmail.com </b>
 
 ----
 
@@ -54,6 +52,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
 
+----
 
 ### 🤝 Supporting me :
 
@@ -62,9 +61,11 @@ Thank you for taking the time to drop by! If you find my work useful, please con
 <a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
 
 ----  
-
  
 <img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
+
+
+
 
 
 <!-- EXTRA STUFF IGNORED
@@ -81,6 +82,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+💬 Ask me about my current projects
 
 
 <h3 align="left">Connect with me:</h3>
