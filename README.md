@@ -56,7 +56,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 ### 🤝 Supporting me :
 
-Thank you for taking the time to drop by! If you find my work useful, please consider supporting me. Your support helps me continue creating helpful resources and improving my skills. No pressure, though! Your presence and feedback are already appreciated 🤓
+Thank you for taking the time to drop by! 🙏 If you've found my work helpful, I'd be grateful if you could support me in achieving my dreams and goals. Your contribution will enable me to continue creating more amazing content and enhancing my skills.  I'd love to have you on board for this journey, but no pressure if you can't! Your presence and feedback are already a great motivation for me 🤓
 
 <a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
 
