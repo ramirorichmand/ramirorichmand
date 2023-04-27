@@ -64,7 +64,8 @@ If you've found my work helpful, I'd be grateful if you could support me in achi
 
 <a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
 
-----  
+ ![------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
  
 <img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
 
