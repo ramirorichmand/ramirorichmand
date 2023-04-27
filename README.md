@@ -24,7 +24,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 - :mailbox: How to reach me: <b> ramirorichmand@gmail.com </b>
 
 ![-------------------------------------------------------------------------------------------------------------------------]
-https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png
+(https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png)
 
 ### :hammer_and_wrench: Languages and Tools :
 
