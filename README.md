@@ -47,7 +47,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 </div>
 
 ![-------------------------------------------------------------------------------------------------------------------------]
-https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png
+(https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png)
 
 ### :fire: My Stats :
 
