@@ -26,7 +26,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 - :mailbox: How to reach me: <b> ramirorichmand@gmail.com </b>
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%" alt="horizontal coloured line">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="horizontal rainbow line">
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -75,7 +75,6 @@ If you've found my work helpful, I'd be grateful if you could support me in achi
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="horizontal rainbow line">
 </p>
  
- 
 <img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
 
 
@@ -85,6 +84,10 @@ If you've found my work helpful, I'd be grateful if you could support me in achi
 <!-- EXTRA STUFF IGNORED
 
 **ramirorichmand/ramirorichmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%" alt="horizontal coloured line">
+</p>
 
 Here are some ideas to get you started:
 
