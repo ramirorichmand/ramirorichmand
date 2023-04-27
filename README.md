@@ -15,7 +15,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 - :telescope: I’m training as a <b> Full Stack Software Engineer and contributing to frontend and backend projects for building applications. </b>
 
-- :seedling: Exploring <b> Machine Learning and Natural Language within International Development and hope to soon participate in Hackathons.</b>
+- :seedling: Exploring <b> tech innovations within International Development and hope to soon participate in Hackathons.</b>
 
 - :zap: In my free time, <b> you'll often find me diving into tech articles, tuning in to tech podcasts, and taking on coding challenges to level up my programming skills!</b>
 
