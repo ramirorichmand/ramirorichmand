@@ -4,7 +4,9 @@
 </div>
 
 [![](https://raw.githubusercontent.com/ramirorichmand/RR1_AnimatedReadMe/main/chat.svg)](ramirorichmand@gmail.com)
-----
+
+ ![------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ### :man_technologist: About Me :
 
 I am an Equity Research Analyst from the UK eager to take my passion within Finance and Technology to the next level by expanding my skillset in Full Stack Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
