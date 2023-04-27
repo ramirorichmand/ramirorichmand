@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="398" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="373" height="275"/>
   <h1 style="text-align: center;">Hey there! 👋</h1>
 </div>
 
 [![](https://raw.githubusercontent.com/ramirorichmand/RR1_AnimatedReadMe/main/chat.svg)](ramirorichmand@gmail.com)
 
-![-------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="horizontal aqua line">
+</p>
 
 ### :man_technologist: About Me :
 
@@ -23,7 +25,9 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
   
 - :mailbox: How to reach me: <b> ramirorichmand@gmail.com </b>
 
-![--------------------------------------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png)
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%" alt="horizontal coloured line">
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -45,7 +49,9 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
-![------------------------------------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png)
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png" width="100%" alt="horizontal solar line">
+</p>
 
 ### :fire: My Stats :
 
@@ -53,7 +59,9 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
 
-![-------------------------------------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/vintage.png)
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/vintage.png" width="100%" alt="horizontal vintage line">
+</p>
 
 ### 🤝 Supporting me :
 
@@ -62,8 +70,10 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 If you've found my work helpful, I'd be grateful if you could support me in achieving my dreams and goals. Your contribution will enable me to continue creating more amazing content and enhancing my skills.  I'd love to have you on board for this journey, but no pressure if you can't! Your presence and feedback are already a great motivation for me 🤓
 
 <a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
-
- ![------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="horizontal rainbow line">
+</p>
  
  
 <img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
