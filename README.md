@@ -53,8 +53,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
 
-![-------------------------------------------------------------------------------------------------------------------------]
-(https://github.com/andreasbm/readme/blob/master/assets/lines/vintage.png)
+![-------------------------------------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/vintage.png)
 
 ### 🤝 Supporting me :
 
