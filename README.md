@@ -60,7 +60,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
 
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/vintage.png" width="100%" alt="horizontal vintage line">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="horizontal aqua line">
 </p>
 
 ### 🤝 Supporting me :
@@ -87,6 +87,10 @@ If you've found my work helpful, I'd be grateful if you could support me in achi
 
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%" alt="horizontal coloured line">
+</p>
+
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/vintage.png" width="100%" alt="horizontal vintage line">
 </p>
 
 Here are some ideas to get you started:
