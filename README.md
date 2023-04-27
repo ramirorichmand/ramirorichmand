@@ -23,7 +23,8 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
   
 - :mailbox: How to reach me: <b> ramirorichmand@gmail.com </b>
 
-----
+![-------------------------------------------------------------------------------------------------------------------------]
+https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -45,8 +46,8 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
-
-----
+![-------------------------------------------------------------------------------------------------------------------------]
+https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png
 
 ### :fire: My Stats :
 
@@ -54,7 +55,8 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
 
-----
+![-------------------------------------------------------------------------------------------------------------------------]
+https://github.com/andreasbm/readme/blob/master/assets/lines/vintage.png
 
 ### 🤝 Supporting me :
 
