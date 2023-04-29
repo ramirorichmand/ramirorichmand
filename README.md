@@ -57,7 +57,8 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ramirorichmand&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand&layout=compact)](https://github.com/ramirorichmand/github-readme-stats)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="horizontal aqua line">
@@ -105,6 +106,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 💬 Ask me about my current projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand)](https://github.com/ramirorichmand/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
