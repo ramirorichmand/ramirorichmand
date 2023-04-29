@@ -55,9 +55,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramirorichmand&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand&layout=compact)](https://github.com/ramirorichmand/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramirorichmand&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand&layout=compact)](https://github.com/ramirorichmand/github-readme-stats)
 
 
 <p align="center">
