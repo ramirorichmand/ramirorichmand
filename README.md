@@ -31,6 +31,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 ### :hammer_and_wrench: Languages and Tools 
 
+<div align="center">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
@@ -59,6 +60,8 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
+  </div>
+
 
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png" width="100%" alt="horizontal solar line">
@@ -81,7 +84,7 @@ If you've enjoyed or found my work helpful, I'd be grateful if you could support
 
 But hey, no worries if you're not able to contribute right now! I totally get it. Your presence and support alone are already a great motivation that inspire me to push forward on this adventure. 🚀
 
-Thanks again for being here and considering supporting me. Sending you positive vibes for an awesome day! ✌️🧿
+Thanks again for being here and considering supporting me. Have an awesome day! ✌️
 
 <a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
  
