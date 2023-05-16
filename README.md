@@ -80,7 +80,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 <b> Thank you </b> for taking the time to drop by! 🙏 
 
-If you've enjoyed or found my work helpful, I'd be grateful if you could support me in chasing my dreams and goals. Any contribution you're able to make would mean the world to me. It'll fuel my journey of continuous improvement and lifelong learning, as I strive to create fun (I hope!), and somewhat meaningful content that connects with as many people as possible. 🤓
+If you've enjoyed or found my work helpful, I'd be grateful if you could support me in chasing my dreams and goals. Any contribution you're able to make would mean the world to me. It'll fuel my journey of continuous improvement and lifelong learning, as I strive to share fun and somewhat meaningful content (I hope!) that connects with as many people as possible. 🤓
 
 But hey, no worries if you're not able to contribute right now! I totally get it. Your presence and support alone are already a great motivation that inspire me to push forward on this adventure. 🚀
 
