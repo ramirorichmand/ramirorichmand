@@ -1,15 +1,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="373" height="275"/>
-  <h1 style="text-align: center;">Hey there! 👋</h1>
+  <h1 style="text-align: center;">Hey there, I'm Ramiro 👋</h1>
 </div>
 
-[![](https://raw.githubusercontent.com/ramirorichmand/RR1_AnimatedReadMe/main/chat.svg)](ramirorichmand@gmail.com)
+<!-- [![](https://raw.githubusercontent.com/ramirorichmand/RR1_AnimatedReadMe/main/chat.svg)](ramirorichmand@gmail.com) -->
 
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="horizontal aqua line">
-</p>
+</p> -->
 
-### :man_technologist: About Me 
+<!-- ### :man_technologist: About Me 
 
 I am an Equity Research Analyst from the UK eager to take my passion within Finance and Technology to the next level by expanding my skillset in Full Stack Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -24,6 +25,8 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 - 👻 Fun Fact: Came 2nd in a Salsa competition!  
   
 - :mailbox: How to reach me: <b> ramirorichmand@gmail.com </b>
+-->
+  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="horizontal rainbow line">
@@ -54,6 +57,7 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/DsHIcJv.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
@@ -80,11 +84,11 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 
 <b> Thank you </b> for taking the time to drop by! 🙏 
 
-If you've enjoyed or found my work helpful, I'd be grateful if you could support me in chasing my dreams and goals. Any contribution you're able to make would mean the world to me. It'll fuel my journey of continuous improvement and lifelong learning, as I strive to share fun and somewhat meaningful content (I hope!) that connects with as many people as possible. 🤓
+If you've enjoyed or found my work helpful, I'd be grateful if you could support me in chasing my dreams and goals. It'll fuel my journey of continuous improvement and lifelong learning, as I strive to share fun and somewhat meaningful content (I hope!) that connects with as many people as possible. 🤓
 
 But hey, no worries if you're not able to contribute right now! I totally get it. Your presence and support alone are already a great motivation that inspire me to push forward on this adventure. 🚀
 
-Thanks again for being here and considering supporting me. Have an awesome day! ✌️
+Thanks again for being here. Have an awesome day! ✌️
 
 <a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
  
