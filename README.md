@@ -3,7 +3,9 @@
   <h1 style="text-align: center;">Hey there, I'm Ramiro 👋</h1>
 </div>
 
-<!-- [![](https://raw.githubusercontent.com/ramirorichmand/RR1_AnimatedReadMe/main/chat.svg)](ramirorichmand@gmail.com) -->
+<br> 
+
+[![](https://raw.githubusercontent.com/ramirorichmand/RR1_AnimatedReadMe/main/chat.svg)](ramirorichmand@gmail.com) 
 
 <!--
 <p align="center">
@@ -27,7 +29,6 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 - :mailbox: How to reach me: <b> ramirorichmand@gmail.com </b>
 -->
   
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="horizontal rainbow line">
 </p>
