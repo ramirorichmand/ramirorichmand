@@ -67,19 +67,41 @@ I am an Equity Research Analyst from the UK eager to take my passion within Fina
 </div>
   </div>
 
-
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png" width="100%" alt="horizontal solar line">
-</p>
-
-### :fire: My Stats 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramirorichmand&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand&layout=compact)](https://github.com/ramirorichmand/github-readme-stats)
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="horizontal aqua line">
 </p>
+
+### 🤝 Join my Journey
+
+<b> Thank you </b> for dropping by! 🙏 
+
+If you've enjoyed or found my work helpful, any support would be amazing and help fuel my journey of continuous improvement and lifelong learning, as I strive to share fun and somewhat meaningful content (I hope!) that connects with as many people as possible. 🤓
+
+But hey, no worries if you're not able to contribute right now! I totally get it. Your presence and support are already a huge motivation. 🚀
+
+Thanks again for being here. Have an awesome day! ✌️
+
+<a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
+
+
+
+ <p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png" width="100%" alt="horizontal solar line">
+</p>
+
+<!--
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="horizontal rainbow line">
+</p>
+-->
+ 
+<img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
+
+
+
+
+
+<!-- EXTRA STUFF IGNORED
 
 ### 🤝 Join my Journey
 
@@ -91,19 +113,10 @@ But hey, no worries if you're not able to contribute right now! I totally get it
 
 Thanks again for being here. Have an awesome day! ✌️
 
-<a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
- 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="horizontal rainbow line">
-</p>
- 
-<img src="https://komarev.com/ghpvc/?username=ramirorichmand&style=flat-square&color=blue" alt=""/>
+### :fire: My Stats 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramirorichmand&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorichmand&layout=compact)](https://github.com/ramirorichmand/github-readme-stats)
 
-
-
-
-<!-- EXTRA STUFF IGNORED
 
 **ramirorichmand/ramirorichmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
